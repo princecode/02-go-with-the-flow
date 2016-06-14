@@ -21,7 +21,7 @@ namespace GoWithTheFlow
 
                 
             }else
-                {
+            {
                     Console.WriteLine("Ummmm...You have... to..plug...it...in. Lamps need electricity");
                 }
 
